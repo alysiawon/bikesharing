@@ -29,18 +29,23 @@ In this analysis there are multiple reports conducted:
 
 In this analysis there are multiple reports conducted:
 1. Checkout Times by Users
+    
     This graph showcases the length of time that bikes are checked out for all riders.
 
 2. Checkout Times by Gender
+    
     This graph showcases the length of time that bikes are checked out for each gender.
 
 3. Trips by Weekday for Each Hour
+    
     This graph showcases the number of bike trips by weekday for each hour of the day as a heatmap.
 
 4. Trips By Gender (Weekday by Hour)
+    
     This graph showcases the number of bike trips by gender for each hour of each day of the week as a heatmap.
 
 5. User Trips by Gender by Weekday
+    
     This graph showcases the number of bike trips by gender for each hour for each day of the week as a heatmap.
 
 ## Summary
@@ -49,7 +54,9 @@ After conducting this analysis, it is clear by looking at various graphs that th
 
 Additional graphs that would be beneificial to look at inn Des Moines would be:
 1. Average Trip Duration By Customer Type
+    
     This would be beneficial to see if there is a difference to the trip duration for subscribers and average customers. It would be helpful to see if one customer type uses it longer and for how much longer. This would be helpful to see how many bikes we would need to have available.
 
 2. Top Starting and Ending Locations
+    
     This would be beneficial to ensure there are enough bikes for users at the peak areas in Des Moines.
