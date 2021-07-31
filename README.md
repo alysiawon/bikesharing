@@ -14,6 +14,8 @@ The anlysis is conduted as two different reports:
 
 ### Bike Sharing Program in New York City Analysis
 
+<img align="right" src="Analysis/bikesharing-newyork.png" width="450">
+
 In this analysis there are multiple reports conducted:
 1. Number of Rides
 2. Types of Customers
@@ -27,36 +29,40 @@ In this analysis there are multiple reports conducted:
 
 ### Bike Sharing Program in Des Moines Analysis
 
+<img align="left" src="Analysis/bikesharing-desmoines.png" width="450">
+
 In this analysis there are multiple reports conducted:
-**1. Checkout Times by Users**
-    
-    This graph showcases the length of time that bikes are checked out for all riders.
 
-**2. Checkout Times by Gender**
-    
-    This graph showcases the length of time that bikes are checked out for each gender.
+**1. Checkout Times by Users** 
 
-**3. Trips by Weekday for Each Hour**
-    
-    This graph showcases the number of bike trips by weekday for each hour of the day as a heatmap.
+This graph showcases the length of time that bikes are checked out for all riders.
 
-**4. Trips By Gender (Weekday by Hour)**
-    
-    This graph showcases the number of bike trips by gender for each hour of each day of the week as a heatmap.
+**2. Checkout Times by Gender** 
 
-**5. User Trips by Gender by Weekday**
-    
-    This graph showcases the number of bike trips by gender for each hour for each day of the week as a heatmap.
+This graph showcases the length of time that bikes are checked out for each gender.
+
+**3. Trips by Weekday for Each Hour** 
+
+This graph showcases the number of bike trips by weekday for each hour of the day as a heatmap.
+
+**4. Trips By Gender (Weekday by Hour)** 
+
+This graph showcases the number of bike trips by gender for each hour of each day of the week as a heatmap.
+
+**5. User Trips by Gender by Weekday** 
+
+This graph showcases the number of bike trips by gender for each hour for each day of the week as a heatmap.
 
 ## Summary
 
 After conducting this analysis, it is clear by looking at various graphs that there would be a demand inn Des Moines. Most users will ride for 30 minutes or less between 7:00AM to 7:00PM. There are higher demands during commute hours and varies between genders as well. Overall, it is strongly recommended to start a bike-sharing in Des Moines. 
 
 Additional graphs that would be beneificial to look at inn Des Moines would be:
+
 **1. Average Trip Duration By Customer Type**
-    
-    This would be beneficial to see if there is a difference to the trip duration for subscribers and average customers. It would be helpful to see if one customer type uses it longer and for how much longer. This would be helpful to see how many bikes we would need to have available.
+
+This would be beneficial to see if there is a difference to the trip duration for subscribers and average customers. It would be helpful to see if one customer type uses it longer and for how much longer. This would be helpful to see how many bikes we would need to have available.
 
 **2. Top Starting and Ending Locations**
     
-    This would be beneficial to ensure there are enough bikes for users at the peak areas in Des Moines.
+This would be beneficial to ensure there are enough bikes for users at the peak areas in Des Moines.
