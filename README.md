@@ -12,9 +12,10 @@ The anlysis is conduted as two different reports:
 1. <a href="https://public.tableau.com/app/profile/alysia.won/viz/bikesharing-module/NYCCitiBike?publish=yes">Bike Sharing Program in New York City Analysis</a>
 2. <a href="https://public.tableau.com/app/profile/alysia.won/viz/bikesharing-challenge/Bike-SharinginDesMoinesAnalysis?publish=yes">Bike Sharing Program in Des Moines Analysis</a>
 
-### Bike Sharing Program in New York City Analysis
 
 <img align="right" src="Analysis/bikesharing-newyork.png" width="450">
+
+### Bike Sharing Program in New York City Analysis
 
 In this analysis there are multiple reports conducted:
 1. Number of Rides
@@ -27,9 +28,13 @@ In this analysis there are multiple reports conducted:
 8. Bike Repairs
 9. Bike Utilization
 
-### Bike Sharing Program in Des Moines Analysis
+<br>
+<br>
+<br>
 
 <img align="left" src="Analysis/bikesharing-desmoines.png" width="450">
+
+### Bike Sharing Program in Des Moines Analysis
 
 In this analysis there are multiple reports conducted:
 
